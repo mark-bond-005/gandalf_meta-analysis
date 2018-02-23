@@ -8,7 +8,7 @@ authorNames <- c("Chubb", "Bunce", "Goldworthy",
                      "Vushcog", "Ienthfotthor", "Gusilidek",
                      "Imushokun", "Oltarcatten", "Kezattun",
                      "Momuztobul",
-                 "Melwas?l", "Felagund", "N?pold?"
+                 "Melwasél", "Felagund", "Népoldé"
                  )
 authorRace <- factor(c(rep("Hobbit", 7), rep("Dwarf", 10), rep("Elf", 3)))
 
